@@ -1,0 +1,4 @@
+add_subdirectory(1_entities)
+add_subdirectory(2_usecases)
+add_subdirectory(3_controllers)
+add_subdirectory(4_frameworks)
